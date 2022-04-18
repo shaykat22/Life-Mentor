@@ -4,8 +4,8 @@ import profile from '../../images/about/profile.jpg';
 const About = () => {
     return (
         <div className=' p-5'>
-            <img className='w-50 rounded-pill border border-5 mx-auto d-block m-5' src={profile} alt="" />
-            <h2 className='text-center'>Md. Nafish Sadik</h2>
+            <img className='w-50  border border-5 mx-auto d-block m-5' src={profile} alt="" />
+            <h2 className='text-center'>Shafinur Rahman</h2>
             <p className='text-center'>I've had a keen interest in computers and programming since my undergraduate days.
                 My objective is to become a skilled web developer capable of producing professional and helpful online apps
                 with commercial value. I'm looking for a junior software developer position at a reputable software company

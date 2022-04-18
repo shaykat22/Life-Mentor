@@ -1,44 +1,24 @@
 [
-    {
-        "id": 1,
-        "name": "Elementary",
-        "price": "10000",
-        "description": "1 Senior Photographer",
-        "img": "https://i.ibb.co/jJqPVJ1/service1.jpg"
-    },
-    {
-        "id": 2,
-        "name": "Economy",
-        "price": "12500",
-        "description": "1 Top Photographer",
-        "img": "https://i.ibb.co/2vnH4xv/service2.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Smart",
-        "price": "1000",
-        "description": "1 Senior Photographer",
-        "img": "https://i.ibb.co/dphcxvh/service3.jpg"
-    },
+    
     {
         "id": 4,
         "name": "Standard",
         "price": "1000",
-        "description": "1 Senior Photographer",
-        "img": "https://i.ibb.co/SJYWV27/service4.jpg"
+        "description": "2 Years Experianced",
+        "img": "https://i.ibb.co/7bRnsbj/Screenshot-3.png"
     },
     {
         "id": 5,
         "name": "Premium",
         "price": "1000",
-        "description": "1 Senior Photographer",
-        "img": "https://i.ibb.co/GdvgMd8/service5.jpg"
+        "description": "5 Years Experianced",
+        "img": "https://i.ibb.co/sJhz5C5/Screenshot-1.png"
     },
     {
         "id": 6,
         "name": "Enjoy Unlimited",
         "price": "1000",
-        "description": "1 Senior Photographer",
-        "img": "https://i.ibb.co/44pBQpw/woman-s-face-1988681.jpg"
+        "description": " 8 Years Experianced",
+        "img": "https://i.ibb.co/Lx2VrJL/Screenshot-2.png"
     }
 ]
