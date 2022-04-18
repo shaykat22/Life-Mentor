@@ -1,6 +1,6 @@
 # Life Mentor
 
-[Live site link](https://github.com/facebook/create-react-app).
+[Live site link](https://life-mentor-779ff.web.app).
 
 ## Features and Functionality
 - Navigation bar connect with the necessary routes.
